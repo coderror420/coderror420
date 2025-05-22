@@ -4,10 +4,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=coderror420&show_icons=true&theme=dark" width="400"/>
 
-## 🚀 About Me
-
-I'm a versatile developer with experience in multiple programming paradigms and web technologies. My passion lies in creating efficient solutions and engaging user experiences. I enjoy bridging the gap between software development and creative design, constantly learning new technologies to expand my skill set.
-
 ## 🔧 Technical Arsenal
 
 ### **Languages**
